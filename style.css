@@ -57,7 +57,7 @@ body
 #btn-translate
 {
     padding: 1rem;
-    background-color: white;
+    background-color: var(--primary-color);
     font-weight: bolder;
     margin: auto;
     border-radius: 10px;
